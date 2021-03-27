@@ -6,6 +6,7 @@ import 'package:test123/models/pexelsModel/pexelsImageModel.dart';
 import 'package:test123/utils/style/designStyle/designStyle.dart';
 import 'package:test123/views/design/home/ItemDetailActivity.dart';
 
+// new feature have added
 class HomeScreenDesign extends StatefulWidget {
   @override
   _HomeScreenDesignState createState() => _HomeScreenDesignState();
