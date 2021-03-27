@@ -8,6 +8,9 @@ import 'package:test123/views/design/home/ItemDetailActivity.dart';
 
 // new feature have added
 // release our product now
+
+// prevent number input
+
 class HomeScreenDesign extends StatefulWidget {
   @override
   _HomeScreenDesignState createState() => _HomeScreenDesignState();
